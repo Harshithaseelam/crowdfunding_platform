@@ -17,9 +17,9 @@ A decentralized crowdfunding platform leveraging blockchain technology to enable
 ## Tech Stack
 
 ### Frontend
-- React.js or Next.js - Build the user interface.
-- Ethers.js or Web3.js - Interact with blockchain.
-- TailwindCSS - Design responsive UI.
+- React.js 
+- Ethers.js or Web3.js 
+- TailwindCSS 
 
 ### Blockchain
 - Ethereum, Polygon, or Binance Smart Chain - Blockchain platform for smart contracts.
