@@ -18,7 +18,7 @@ A decentralized crowdfunding platform leveraging blockchain technology to enable
 
 ### Frontend
 - React.js 
-- Ethers.js or Web3.js 
+- Web3.js 
 - TailwindCSS 
 
 ### Blockchain
