@@ -37,5 +37,6 @@ A decentralized crowdfunding platform leveraging blockchain technology to enable
 
 1. *Clone the repository*
    ```bash
-   git clone https://github.com/your-username/decentralized-crowdfunding.git
-   cd decentralized-crowdfunding
+   git clone https://github.com/Harshithaseelam/crowdfunding_platform.git
+   cd crowdfunding_platform
+   
