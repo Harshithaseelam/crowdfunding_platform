@@ -31,7 +31,7 @@ A decentralized crowdfunding platform leveraging blockchain technology to enable
 ### Prerequisites
 1. Install [Node.js](https://nodejs.org) and [Yarn](https://yarnpkg.com/).
 2. Install [MetaMask](https://metamask.io/) for interacting with the blockchain.
-3. Set up an account on a blockchain testnet (e.g., Rinkeby or Mumbai).
+
 
 ### Installation
 
