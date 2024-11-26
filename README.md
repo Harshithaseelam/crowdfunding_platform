@@ -22,7 +22,7 @@ A decentralized crowdfunding platform leveraging blockchain technology to enable
 - TailwindCSS 
 
 ### Blockchain
-- Ethereum, Polygon, or Binance Smart Chain - Blockchain platform for smart contracts.
+- Ethereum - Blockchain platform for smart contracts.
 
 ---
 
